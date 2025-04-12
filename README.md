@@ -121,8 +121,5 @@ Overall, this dataset is a versatile resource for exploring various aspects of t
 ## ⚡ Usage and Terms
 This dataset is provided by The Movie Database (TMDb) API. Please refer to their [Terms of Use](https://www.themoviedb.org/terms-of-use) for more information.
 
-## Links
-Google colab: https://colab.research.google.com/drive/1Uf4aWUj71M1tnrCHY_n58zvrtgmX5A55?usp=sharing
-Kaggle: https://www.kaggle.com/datasets/fatmahaljohani/tmdb-data
-GitHub: https://github.com/fatmah13/TMBd-data/tree/main
+
 
